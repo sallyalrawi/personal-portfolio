@@ -1,3 +1,22 @@
 body{
-    background-image:url() 
+    background-image:url(images/vintage-concrete.png); 
+}
+.container{
+    width: 70%;
+    align-content:center;
+}
+.card {
+    width: 30vw;
+    float:right; 
+    display: flex;
+    flex-direction: column;
+    align-content:center;
+   margin-right: 20px;
+   margin-left:10px;
+    
+}
+.btn {
+    background-color: #7F462C;
+    color: white;
+    border-color:#7F462C;
 }
